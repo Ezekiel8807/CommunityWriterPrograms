@@ -28,13 +28,13 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
   > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
 
-- [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece
+- [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece (Application is currently on hold)
   > Internal tools, low code, open-source, databases, application performance, engineering best practices, JavaScript, and Appsmith.
 
 - [Arctype](https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
-- [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece
+- [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece (Application is currently on hold)
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
